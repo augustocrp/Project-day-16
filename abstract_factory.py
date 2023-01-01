@@ -85,3 +85,4 @@ if __name__ == "__main__":
   
   print("Coletando dados de Segurança")
   client_code(SecurityDataFactory(token_fortal, token_ce))
+  
